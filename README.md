@@ -23,8 +23,10 @@ make
 ```
 
 ### How to run it
+```bash
 ./header_hunter -t [input folder] -o [output file]
 options:
   -i: ignore include filesystem
   -m [max number of lines to parse]
+```
 
